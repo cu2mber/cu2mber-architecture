@@ -244,6 +244,9 @@
         <mxCell id="FzRYmF3HzqH8AZuYZzv0-149" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opentext.com/assets/images/partners/opentext-aws-logo-cover-416x274.png;" vertex="1" parent="1">
           <mxGeometry x="600" y="370" width="226.6" height="149.25" as="geometry" />
         </mxCell>
+        <mxCell id="FzRYmF3HzqH8AZuYZzv0-150" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.icons8.com/color/512/nginx.png;" vertex="1" parent="1">
+          <mxGeometry x="890" y="359.62" width="170" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
